@@ -1,4 +1,21 @@
-https://github.com/bryanbarzola7/smart-plant-watering-system/new/mainHello
+# Smart Plant Watering System
+
+**Project Overview**
+
+*Smart Plant Watering System* is an IoT solution that automatically waters your plants based on real-time soil moisture readings. It leverages an Arduino microcontroller, a soil moisture sensor and a small water pump to keep your plants healthy even when you're away.
+
+> "The best time to water your plants is when they need it." – Unknown
+
+## Features
+
+- Automatically measures soil moisture and waters the plant when dry.
+- Uses a water pump controlled by a relay module.
+- LEDs indicate moisture status.
+- Configurable threshold to suit different plant types.
+- Low cost and easy to build.
+
+## Bill of Materials
+
 1. Arduino Uno (or compatible board).
 2. Soil Moisture Sensor.
 3. 5V Mini Water Pump.
